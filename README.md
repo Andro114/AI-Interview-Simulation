@@ -65,3 +65,13 @@ http://127.0.0.1:8000/docs
 - `__pycache__`
 - local `.env`
 - unused `q.py`
+
+## Model Training Notebooks
+
+The filler detection model training and experiment notebooks are available in the `notebooks/` directory.
+
+```text
+notebooks/
+├── audio_stt_feature_eda_podcastfillers.ipynb
+├── podcastfillers_filler_detection_training.ipynb
+└── podcastfillers_after_training_inference.ipynb
