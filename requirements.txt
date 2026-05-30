@@ -8,4 +8,3 @@ numpy
 pandas
 pyttsx3
 faster-whisper
-ffmpeg
